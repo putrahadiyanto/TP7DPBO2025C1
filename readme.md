@@ -116,4 +116,4 @@ Aplikasi ini menggunakan PDO (PHP Data Objects) untuk mengakses database MySQL. 
 
 ![alt text](documentation/ss2.png)
 
-https://github.com/putrahadiyanto/TP7DPBO2025C1/issues/1#issue-3007033351
+[https://github.com/putrahadiyanto/TP7DPBO2025C1/issues/1#issue-3007033351](https://github.com/user-attachments/assets/9507baee-66a9-4985-b5a3-9dacbec06e77)
